@@ -1,0 +1,6 @@
+# Ignore environment files
+dev.env
+*.env
+
+# Do not ignore the example environment file
+!.env.example
